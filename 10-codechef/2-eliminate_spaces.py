@@ -7,3 +7,4 @@ for i in t:
         continue
     print(i)
 
+

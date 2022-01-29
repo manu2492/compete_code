@@ -24,3 +24,6 @@ while t>0:
 lis.sort()
 for i in range(0,len(lis)):
     print(lis[i])
+
+
+
