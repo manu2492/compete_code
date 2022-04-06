@@ -9,7 +9,7 @@ The second line of each description contains N space separated integers - a1, a2
 
 Output
 For each test case, output a single line containing a single integer - the smallest possible sum for the 
-corresponding test case.
+corresponding test cases.
 
 Input:
 1
